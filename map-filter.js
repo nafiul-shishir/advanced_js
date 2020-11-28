@@ -37,5 +37,6 @@ const numbers = [3,4,78,58,10];
 const bigger = numbers.filter(x=> x > 5);
 
 const isThere = numbers.find(x=> x > 5);
+
 console.log(isThere);
 
